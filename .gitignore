@@ -5,7 +5,10 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.jpg
+*.png
+/petfinder-pawpularity-score/*
+/archive/*
 # Distribution / packaging
 .Python
 build/
