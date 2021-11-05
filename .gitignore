@@ -5,7 +5,13 @@ __pycache__/
 
 # C extensions
 *.so
-
+*.jpg
+*.png
+/petfinder-pawpularity-score/*
+!/petfinder-pawpularity-score/train.csv
+!/petfinder-pawpularity-score/test.csv
+!/petfinder-pawpularity-score/sample_submission.csv
+/archive/*
 # Distribution / packaging
 .Python
 build/
