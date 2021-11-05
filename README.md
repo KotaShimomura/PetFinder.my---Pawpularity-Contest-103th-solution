@@ -1,4 +1,17 @@
 # [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score)
+# ディレクトリ構造
+├── Untitled1.ipynb  
+├── archive  
+│   └── crop  
+├── petfinder-pawpularity-score  
+│   ├── sample_submission.csv  
+│   ├── test  
+│   ├── test.csv  
+│   ├── train  
+│   └── train.csv  
+├── train_10folds.csv  
+└── train_5folds.csv  
+
 
 # 概要
 
