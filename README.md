@@ -12,6 +12,13 @@
 ├── train_10folds.csv  
 └── train_5folds.csv  
 
+# 使用しているデータ
+## petfinder-pawpularity-scoreディレクトリ
+[ここ](petfinder-pawpularity-score)
+## 5fold & 10fold
+[notebookのoutput](https://www.kaggle.com/abhishek/same-old-creating-folds)
+## archiveディレクトリ
+[ここ](https://www.kaggle.com/c/petfinder-pawpularity-score/discussion/274303)
 
 # 概要
 
@@ -39,8 +46,5 @@ Pawpularity Scoreは、各ペットプロフィールの掲載ページにおけ
 
 
 # 使用しているコード
-## 5fold & 10fold
-[notebook](https://www.kaggle.com/abhishek/same-old-creating-folds)
-
 ## baseline
 [notebook](https://www.kaggle.com/manabendrarout/transformers-classifier-method-starter-train)
