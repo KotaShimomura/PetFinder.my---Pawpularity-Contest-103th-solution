@@ -1,6 +1,9 @@
 # [PetFinder.my - Pawpularity Contest](https://www.kaggle.com/c/petfinder-pawpularity-score)
 # ディレクトリ構造
 ├── Untitled1.ipynb  
+├── pet_pytorch_convnext.ipynb  
+├── pet_pytorch_swint.ipynb  
+├── Lovely Doggo with Bonky (fastai & timm).ipynb  
 ├── archive  
 │   └── crop  
 ├── petfinder-pawpularity-score  
@@ -10,7 +13,10 @@
 │   ├── train  
 │   └── train.csv  
 ├── train_10folds.csv  
-└── train_5folds.csv  
+├── train_5folds.csv  
+├── train.pkl  
+└── train_add_f.csv  
+ 
 
 # 使用しているデータ
 ## petfinder-pawpularity-scoreディレクトリ
